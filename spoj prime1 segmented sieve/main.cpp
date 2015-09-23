@@ -8,6 +8,7 @@ int sqrt2=sqrt(32000);
 
 
 void seive(){
+
 for(int i=2;i<=sqrt2;i++){
     if(prime[i]==0){
         for(int j=i*i;j<=32000;j+=i)

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1440568299 source:e:\programs\programming\practice\hackerrank\spoj bitmap_test\main.cpp
+	<iostream>
+	<cstdio>
+	<vector>
+	<cmath>
+	<queue>
+	<vector>
+
